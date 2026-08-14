@@ -42,7 +42,7 @@ const uiText = {
       <p>Ce site a été conçu et développé par <strong>Chrisnaël Berdier</strong>,
       étudiant en BUT MMI — Parcours Création Numérique à l'IUT de Guadeloupe.</p>
       <p>
-        <a href="https://yui971.github.io/portfolio-berdier-chrisnael/" target="_blank" rel="noopener">Portfolio</a> ·
+        <a href="https://chrisnaelberdier.com/" target="_blank" rel="noopener">Portfolio</a> ·
         <a href="https://www.linkedin.com/in/chrisna%C3%ABl-berdier-b634a3389/" target="_blank" rel="noopener">LinkedIn</a>
       </p>
 
@@ -89,7 +89,7 @@ const uiText = {
       <p>This website was designed and developed by <strong>Chrisnaël Berdier</strong>,
       a Multimedia &amp; Internet student at IUT de Guadeloupe.</p>
       <p>
-        <a href="https://yui971.github.io/portfolio-berdier-chrisnael/" target="_blank" rel="noopener">Portfolio</a> ·
+        <a href="https://chrisnaelberdier.com/" target="_blank" rel="noopener">Portfolio</a> ·
         <a href="https://www.linkedin.com/in/chrisna%C3%ABl-berdier-b634a3389/" target="_blank" rel="noopener">LinkedIn</a>
       </p>
 
